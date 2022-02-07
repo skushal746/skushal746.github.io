@@ -5,7 +5,7 @@
         console.log("Entered in javascript code 1");
         message = $("#contactform").serialize();
         $.ajax({
-            url: "//formspree.io/dynamicrealities@gmail.com", 
+            url: "https://formspree.io/f/xrgjprjy", 
             method: "POST",
             data: {message: message},
             dataType: "json"
@@ -18,7 +18,7 @@
         console.log("Entered in javascript code 2");
         message = $("#contactform").serialize();
         $.ajax({
-            url: "//formspree.io/dynamicrealities@gmail.com", 
+            url: "https://formspree.io/f/xrgjprjy", 
             method: "POST",
             data: {message: message},
             dataType: "json"
