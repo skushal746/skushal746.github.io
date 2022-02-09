@@ -10,6 +10,9 @@
             data: {message: message},
             dataType: "json"
         });
+        $( ".nameEnquirer" ).empty();
+        $( ".emailEnquirer" ).empty();
+        $( ".messageEnquirer" ).empty();
         alert('Thanks for the email, we\'ll be in touch promptly.');
         return false;
     });
