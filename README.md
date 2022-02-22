@@ -4,3 +4,8 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 To view a live demo, [click here](https://skushal746.github.io/).
 
+Imporvements:
+Add logo of university in the education section
+Add email format checking in the contact me section
+Add a fading message after user has clicked submit button and empty the fields
+Add more projects in the projects section. Maybe host the projects.
